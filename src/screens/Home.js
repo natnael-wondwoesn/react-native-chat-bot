@@ -6,7 +6,7 @@ import tw from 'twrnc';
 import Features from '../components/features';
 
 import { dummy } from '../constants';
-// import { ScrollView } from 'react-native-reanimated/lib/typescript/Animated';
+
 
 const HomeScreen = () => {
     const [messages,setMessages]= useState(dummy);
